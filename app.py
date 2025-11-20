@@ -16,7 +16,7 @@ model = load_model()
 # -------------------------
 # Streamlit UI
 # -------------------------
-st.title("Student Performance Prediction App")
+st.title("Student Performance Prediction App by Amar M")
 
 st.write("Enter the details below to get prediction")
 
